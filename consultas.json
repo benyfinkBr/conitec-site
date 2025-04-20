@@ -1,0 +1,32 @@
+[
+  {
+    "numero": "2025-16",
+    "titulo": "PCDT Osteoporose",
+    "data": "25/03/2025",
+    "links": [
+      {
+        "tipo": "Relatório",
+        "url": "https://gov.br/conitec/osteoporose/relatorio.pdf"
+      },
+      {
+        "tipo": "Contribuições",
+        "url": "https://gov.br/conitec/osteoporose/contribuicoes.pdf"
+      }
+    ]
+  },
+  {
+    "numero": "2025-20",
+    "titulo": "DIU com Levonorgestrel para Endometriose",
+    "data": "02/04/2025",
+    "links": [
+      {
+        "tipo": "Relatório",
+        "url": "https://gov.br/conitec/diu/relatorio.pdf"
+      },
+      {
+        "tipo": "Anexos",
+        "url": "https://gov.br/conitec/diu/anexos.pdf"
+      }
+    ]
+  }
+]

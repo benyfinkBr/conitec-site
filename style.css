@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background: #f8f8f8;
+}
+h1 {
+    color: #2a2a2a;
+}
+#search {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+}
+.consulta {
+    background: white;
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+.consulta h2 {
+    margin: 0 0 10px 0;
+}
+.consulta a {
+    display: inline-block;
+    margin-right: 10px;
+    color: #0066cc;
+}
